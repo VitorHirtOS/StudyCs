@@ -1,0 +1,15 @@
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\bin\Debug\net7.0\Estudos01.exe
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\bin\Debug\net7.0\Estudos01.deps.json
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\bin\Debug\net7.0\Estudos01.runtimeconfig.json
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\bin\Debug\net7.0\Estudos01.dll
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\bin\Debug\net7.0\Estudos01.pdb
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\obj\Debug\net7.0\Estudos01.csproj.AssemblyReference.cache
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\obj\Debug\net7.0\Estudos01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\obj\Debug\net7.0\Estudos01.AssemblyInfoInputs.cache
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\obj\Debug\net7.0\Estudos01.AssemblyInfo.cs
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\obj\Debug\net7.0\Estudos01.csproj.CoreCompileInputs.cache
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\obj\Debug\net7.0\Estudos01.dll
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\obj\Debug\net7.0\refint\Estudos01.dll
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\obj\Debug\net7.0\Estudos01.pdb
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\obj\Debug\net7.0\Estudos01.genruntimeconfig.cache
+C:\Users\zorin\OneDrive\Documentos\CS\Estudos01\obj\Debug\net7.0\ref\Estudos01.dll
