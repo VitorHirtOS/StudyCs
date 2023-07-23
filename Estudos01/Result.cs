@@ -10,7 +10,7 @@ namespace Result
         }
 
         // Método público para retornar o valor da variável name
-        public string GetName()
+        public string Get()
         {
             return name;
         }
